@@ -1,2 +1,1 @@
-project of Employee Management is system project here i have used Hibernate framework , MYSQLdata base to store data of employee 
-with CRUD Operation.
+Hibernate is a popular Java framework used for Object-Relational Mapping (ORM), which helps in mapping Java objects to database tables.  project of Employee Management system project here i have used Hibernate framework , MYSQLdata base to store data of employee with CRUD Operation.
